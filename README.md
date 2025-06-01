@@ -7,7 +7,7 @@
 1. Клонируйте репозиторий и перейдите в папку проекта:
 ```bash
     git clone <URL>
-    cd freelance_data_analyzer
+    cd data_analyzer
 ```
 
 2. Создайте и активируйте виртуальное окружение:
